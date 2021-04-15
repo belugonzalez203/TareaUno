@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=EmpresaPaqueteria
+comment0.text=\r\n\ Una\ empresa\ de\ envios\ de\ paquetes\ requiere\ un\ programa\:\r\n\ Para\ enviar\ los\ paquetes\ necesita\ saber\ el\ peso\ del\ paquete\ para\ \r\n\ calcular\ el\ precio\ de\ env\u00EDo\ en\ Bs\ por\ cada\ kg\ del\ paquete.\r\n\ Tambien\ requiere\ saber\ el\ volumen\ del\ paquete,\ siendo\ una\ caja\ \r\n\ rectangular.\r\n\ \r\n\ @author\ (Carmen\ Belen\ Gonzalez\ Galvez)\ \r\n\ @version\ (14-04-21)\r\n
+comment1.params=largoCaja\ anchoCaja\ altoCaja
+comment1.target=EmpresaPaqueteria(int,\ int,\ int)
+comment10.params=altoCaja
+comment10.target=void\ setAltoCaja(int)
+comment11.params=
+comment11.target=double\ getAltoCaja()
+comment2.params=
+comment2.target=double\ CalcularVolumen()
+comment3.params=pesoCaja
+comment3.target=double\ PrecioEnvio(double)
+comment4.params=pesoCaja
+comment4.target=void\ setPesoCaja(double)
+comment5.params=
+comment5.target=double\ getPesoCaja()
+comment6.params=largoCaja
+comment6.target=void\ setLargoCaja(int)
+comment7.params=
+comment7.target=double\ getLargoCaja()
+comment8.params=anchoCaja
+comment8.target=void\ setAnchoCajaPesoCaja(int)
+comment9.params=
+comment9.target=double\ getAnchoCaja()
+numComments=12
